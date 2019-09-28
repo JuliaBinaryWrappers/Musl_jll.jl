@@ -17,7 +17,7 @@ libc_path = ""
 libc_handle = C_NULL
 
 # This must be `const` so that we can use it with `ccall()`
-const libc = "libc.musl-arm.so.1"
+const libc = "libc.musl-.so.1"
 
 
 """

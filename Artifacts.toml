@@ -1,36 +1,36 @@
 [[Musl]]
 arch = "x86_64"
-git-tree-sha1 = "fe1d08956282c68c349bb5e203b3861a752947c7"
+git-tree-sha1 = "494ad5aec7270e842f2dc63ce7dc01c19b4433f5"
 libc = "musl"
 os = "linux"
 
     [[Musl.download]]
-    sha256 = "33f5c98fbac161fc8c1af8e238a4296d06319b2ec42965cd5df318ae12c79d1f"
+    sha256 = "489c790397a03165892dbbaff1ba371f44e67fb30a5ed7ff6246481a418efcef"
     url = "https://github.com/JuliaBinaryWrappers/Musl_jll.jl/releases/download/Musl-v1.1.22+0/Musl.v1.1.22.x86_64-linux-musl.tar.gz"
 [[Musl]]
 arch = "i686"
-git-tree-sha1 = "6eec2cf3da2fd6c7a2d84ce5151405b11d4ba1da"
+git-tree-sha1 = "4b031709ac87d5078b50bee6f6c979b7976690d7"
 libc = "musl"
 os = "linux"
 
     [[Musl.download]]
-    sha256 = "7135c57cdf27b23488a0517b9095ef303b09ed8de4bb916e8c7f3705edadb879"
+    sha256 = "539eb83986c90c197bdbd73730dcefc3b1a9f8c1bf4b0114dbf44d7ea957806c"
     url = "https://github.com/JuliaBinaryWrappers/Musl_jll.jl/releases/download/Musl-v1.1.22+0/Musl.v1.1.22.i686-linux-musl.tar.gz"
 [[Musl]]
 arch = "aarch64"
-git-tree-sha1 = "183c51122ef47e0459dcd1477bca732b02652e6d"
+git-tree-sha1 = "14408d4aec9b59124e0c6d3ca940271fdc647ab9"
 libc = "musl"
 os = "linux"
 
     [[Musl.download]]
-    sha256 = "0dab19020c3540c6d7c212863f2110f51bad69ed32d04d33030953586218df9f"
+    sha256 = "e43013ae682d21a3f8a2cdf580916d9976e40f6b4b0dbc7225e5541edbebbd43"
     url = "https://github.com/JuliaBinaryWrappers/Musl_jll.jl/releases/download/Musl-v1.1.22+0/Musl.v1.1.22.aarch64-linux-musl.tar.gz"
 [[Musl]]
 arch = "armv7l"
-git-tree-sha1 = "98c8f9fdb7adcbe41d26e38ac06f3523008d8d9f"
+git-tree-sha1 = "5529c2e89a2fa5730ad01d0fc12f742d61838a7e"
 libc = "musl"
 os = "linux"
 
     [[Musl.download]]
-    sha256 = "6d297abc8048c53dba1a543fbfe2f61ad6d61f78a228cdd46a50a210d2882ece"
+    sha256 = "a0b6519e750dc143d82e3d63cd2b6189e9ad5d6cd7bd058d122b6c86b77f7b3e"
     url = "https://github.com/JuliaBinaryWrappers/Musl_jll.jl/releases/download/Musl-v1.1.22+0/Musl.v1.1.22.arm-linux-musleabihf.tar.gz"
