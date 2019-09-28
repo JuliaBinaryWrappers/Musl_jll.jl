@@ -1,6 +1,6 @@
 name = "Musl_jll"
 uuid = "3490aa6f-05e0-5d3a-9648-5b0c647c155f"
-version = "1.1.19+0"
+version = "1.1.22+0"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
