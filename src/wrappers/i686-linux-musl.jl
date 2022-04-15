@@ -2,7 +2,7 @@
 export libc
 
 JLLWrappers.@generate_wrapper_header("Musl")
-JLLWrappers.@declare_library_product(libc, "libc.musl-.so.1")
+JLLWrappers.@declare_library_product(libc, "libc.musl-i386.so.1")
 function __init__()
     JLLWrappers.@generate_init_header()
     JLLWrappers.@init_library_product(

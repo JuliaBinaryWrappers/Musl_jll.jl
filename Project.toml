@@ -1,6 +1,6 @@
 name = "Musl_jll"
 uuid = "3490aa6f-05e0-5d3a-9648-5b0c647c155f"
-version = "1.2.2+1"
+version = "1.2.2+2"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
